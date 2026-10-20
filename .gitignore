@@ -1,0 +1,34 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Anaconda local project configuration
+anaconda_projects/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
